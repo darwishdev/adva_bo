@@ -1,0 +1,9 @@
+@import './base.css';
+
+.rtl [data-type=toggle] .formkit-wrapper label, .rtl .formkit-track {
+  overflow: auto !important;
+}
+
+.ltr , .phone{
+  direction: ltr !important;
+}

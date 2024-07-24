@@ -1,0 +1,1 @@
+import{d as n,u as a,w as c,o as _,c as p,i as o,A as m}from"./index-c06c0c49.js";import{g as u}from"./ProjectsForm-19406c71.js";const d=n({__name:"ProjectsCreate",async setup(f){let t,e;const{t:s}=a(),r=([t,e]=c(()=>u(s,"create")),t=await t,e(),t);return(i,l)=>(_(),p(o(m),{context:o(r).context},null,8,["context"]))}});export{d as default};

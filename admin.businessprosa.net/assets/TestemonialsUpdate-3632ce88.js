@@ -1,0 +1,1 @@
+import{d as a,u as r,w as c,o as p,c as m,i as o,A as _}from"./index-c06c0c49.js";import{g as i}from"./TestemonialsForm-4f4d7baf.js";const w=a({__name:"TestemonialsUpdate",async setup(u){let t,e;const{t:s}=r(),n=([t,e]=c(()=>i(s,"update")),t=await t,e(),t);return(l,f)=>(p(),m(o(_),{context:o(n).context},null,8,["context"]))}});export{w as default};

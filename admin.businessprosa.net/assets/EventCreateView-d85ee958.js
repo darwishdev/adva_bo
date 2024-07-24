@@ -1,0 +1,1 @@
+import{d as a,u as r,w as _,o as c,c as p,i as n,A as i}from"./index-c06c0c49.js";import{g as m}from"./EventForm-2dce6a40.js";const w=a({__name:"EventCreateView",async setup(u){let e,t;const{t:o}=r(),s=([e,t]=_(()=>m(o,"create")),e=await e,t(),e);return(l,f)=>(c(),p(n(i),{context:n(s).context},null,8,["context"]))}});export{w as default};

@@ -1,0 +1,1 @@
+import{d as a,u as n,w as c,o as m,c as _,i as o,A as p}from"./index-c06c0c49.js";import{g as u}from"./ProgramsForm-5246b387.js";const P=a({__name:"ProgramCreate",async setup(f){let t,e;const{t:r}=n(),s=([t,e]=c(()=>u(r,"create")),t=await t,e(),t);return(i,l)=>(m(),_(o(p),{context:o(s).context},null,8,["context"]))}});export{P as default};

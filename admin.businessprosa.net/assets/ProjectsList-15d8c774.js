@@ -1,0 +1,1 @@
+import{_ as e}from"./categoriesListBase.vue_vue_type_style_index_0_lang-064c3a08.js";import{d as t,u as o,o as a,m as r,f as s}from"./index-c06c0c49.js";const i=t({__name:"ProjectsList",setup(n){return o(),(c,_)=>(a(),r("div",null,[s(e,{typedId:1,viewRouterName:"project_find"})]))}});export{i as default};

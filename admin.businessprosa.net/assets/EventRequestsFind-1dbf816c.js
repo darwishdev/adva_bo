@@ -1,0 +1,1 @@
+import{o as r,m as s}from"./index-c06c0c49.js";const _=(e,t)=>{const n=e.__vccOpts||e;for(const[c,o]of t)n[c]=o;return n},a={};function f(e,t){return r(),s("div",null," Requests Find ")}const u=_(a,[["render",f]]);export{u as default};

@@ -1,0 +1,1 @@
+import{d as a,u as r,w as _,o as c,c as p,i as o,A as l}from"./index-c06c0c49.js";import{g as m}from"./BlogsForm-ee036d33.js";const B=a({__name:"BlogCreate",async setup(u){let e,t;const{t:n}=r(),s=([e,t]=_(()=>m(n,"create")),e=await e,t(),e);return(i,f)=>(c(),p(o(l),{context:o(s).context},null,8,["context"]))}});export{B as default};

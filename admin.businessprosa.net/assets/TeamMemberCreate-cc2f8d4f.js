@@ -1,0 +1,1 @@
+import{d as a,u as n,w as c,o as m,c as _,i as o,A as p}from"./index-c06c0c49.js";import{g as u}from"./TeamForm-7eaaebad.js";const w=a({__name:"TeamMemberCreate",async setup(f){let e,t;const{t:r}=n(),s=([e,t]=c(()=>u(r,"create")),e=await e,t(),e);return(i,l)=>(m(),_(o(p),{context:o(s).context},null,8,["context"]))}});export{w as default};

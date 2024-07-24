@@ -1,0 +1,1 @@
+import{d as n,u as r,w as c,o as p,c as _,i as o,A as m}from"./index-c06c0c49.js";import{g as u}from"./CategoriesForm-bc47b854.js";const g=n({__name:"CategoryUpdate",async setup(f){let t,e;const{t:a}=r(),s=([t,e]=c(()=>u(a,"update")),t=await t,e(),t);return(i,l)=>(p(),_(o(m),{context:o(s).context},null,8,["context"]))}});export{g as default};

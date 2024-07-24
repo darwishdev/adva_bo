@@ -1,0 +1,1 @@
+import{d as s,u as n,w as c,o as _,c as p,i as o,A as m}from"./index-c06c0c49.js";import{g as u}from"./CategoriesForm-bc47b854.js";const g=s({__name:"CategoryCreate",async setup(f){let t,e;const{t:r}=n(),a=([t,e]=c(()=>u(r,"create")),t=await t,e(),t);return(i,l)=>(_(),p(o(m),{context:o(a).context},null,8,["context"]))}});export{g as default};

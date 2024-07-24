@@ -1,0 +1,1 @@
+import{_ as e}from"./categoriesListBase.vue_vue_type_style_index_0_lang-064c3a08.js";import{d as o,u as t,o as a,m as s,f as n}from"./index-c06c0c49.js";const p=o({__name:"BlogsList",setup(r){return t(),(_,m)=>(a(),s("div",null,[n(e,{typedId:2,viewRouterName:"blog_find"})]))}});export{p as default};

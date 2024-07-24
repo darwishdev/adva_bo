@@ -1,0 +1,1 @@
+import{d as n,u as a,w as c,o as _,c as p,i as o,A as m}from"./index-c06c0c49.js";import{g as i}from"./UsersForm-bc44ab9d.js";const d=n({__name:"UserCreateView",async setup(u){let e,t;const{t:s}=a(),r=([e,t]=c(()=>i(s,"create")),e=await e,t(),e);return(f,l)=>(_(),p(o(m),{context:o(r).context},null,8,["context"]))}});export{d as default};

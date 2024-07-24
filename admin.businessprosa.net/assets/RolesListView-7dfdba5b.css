@@ -1,0 +1,1 @@
+.card-start,.card-end,.card-start>div{display:flex;flex-direction:column;justify-content:center;align-items:center}.card-start{background:var(--color-primary);gap:5px}.card-start h2,.card-start h3{color:#fff!important}.card-start h2{font-weight:800;font-size:32px}

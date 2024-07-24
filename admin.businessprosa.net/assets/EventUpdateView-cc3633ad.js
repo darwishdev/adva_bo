@@ -1,0 +1,1 @@
+import{d as a,u as _,w as r,o as c,c as p,i as n,A as u}from"./index-c06c0c49.js";import{g as i}from"./EventForm-2dce6a40.js";const v=a({__name:"EventUpdateView",async setup(m){let t,e;const{t:o}=_(),s=([t,e]=r(()=>i(o,"update")),t=await t,e(),t);return(l,d)=>(c(),p(n(u),{context:n(s).context},null,8,["context"]))}});export{v as default};

@@ -1,0 +1,1 @@
+import{d as n,u as r,w as c,o as p,c as _,i as o,A as m}from"./index-c06c0c49.js";import{g as u}from"./RoleForm-9d3f5dab.js";const w=n({__name:"RoleUpdateView",async setup(i){let t,e;const{t:s}=r(),a=([t,e]=c(()=>u(s,"update")),t=await t,e(),t);return(l,f)=>(p(),_(o(m),{context:o(a)},null,8,["context"]))}});export{w as default};

@@ -1,0 +1,1 @@
+import{d as n,u as a,w as c,o as _,c as p,i as o,A as m}from"./index-c06c0c49.js";import{g as i}from"./ServicesForm-3431974d.js";const w=n({__name:"ServiceCreate",async setup(u){let e,t;const{t:r}=a(),s=([e,t]=c(()=>i(r,"create")),e=await e,t(),e);return(f,l)=>(_(),p(o(m),{context:o(s).context},null,8,["context"]))}});export{w as default};
